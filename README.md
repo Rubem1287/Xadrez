@@ -1,2 +1,2 @@
 # Xadrez
-Um jogo de Xadrez
+Um jogo de Xadrez em Console.
